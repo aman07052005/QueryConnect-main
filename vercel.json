@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/product-community-frontend",
+  "outputDirectory": "dist/product-community-frontend/browser",
   "framework": "angular",
   "rewrites": [
     {
