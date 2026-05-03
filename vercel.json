@@ -1,4 +1,7 @@
 {
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/product-community-frontend",
+  "framework": "other",
   "routes": [
     {
       "src": "/(.*)",
