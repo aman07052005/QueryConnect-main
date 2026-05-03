@@ -2,10 +2,10 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist/product-community-frontend",
   "framework": "angular",
-  "routes": [
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/:path*",
+      "destination": "/index.html"
     }
   ]
 }
