@@ -5,9 +5,11 @@ QueryConnect is a modern, community-driven **Question & Answer platform** design
 The application is developed using **React.js (or Next.js)** and styled with **Tailwind CSS**, ensuring a responsive and visually appealing UI across devices. The architecture follows component-based design principles, enabling modular development and easier maintainability. API integration is handled efficiently using Axios/Fetch, allowing seamless communication with backend services for real-time data updates.
 
 ---
+Deployment Link- queryconnect.vercel.app
 
 ## 🔗 Backend Repository  
 👉 QueryConnect – Backend (Spring Boot + REST API)
+
 
 ---
 
@@ -85,3 +87,4 @@ I was responsible for designing and developing the frontend architecture and int
 ## 📌 Conclusion
 
 QueryConnect frontend demonstrates a strong understanding of **full-stack integration**, modern UI development, and REST API consumption. It highlights practical experience in building scalable web applications with a clean architecture and responsive design. This project reflects the ability to develop production-ready frontend systems and effectively collaborate with backend services.
+
