@@ -37,6 +37,6 @@ You can find the backend code for this project here:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/harshcode1/QueryConnect-Frontend.git
+
 cd QueryConnect-Frontend
 npm install
