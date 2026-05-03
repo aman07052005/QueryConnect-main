@@ -41,5 +41,5 @@ You can find the frontend code for this project here:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/harshcode1/QueryConnect-Backend.git
+
 cd QueryConnect-Backend
