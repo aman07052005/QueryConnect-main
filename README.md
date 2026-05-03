@@ -36,7 +36,7 @@ Deployment Link- queryconnect.vercel.app
 ## 📦 Installation & Setup
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/aman07052005/QueryConnect-main.git>
 cd QueryConnect-Frontend
 npm install
 npm start
